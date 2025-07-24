@@ -7,7 +7,8 @@ from tkinter import Tk, filedialog
 
 def split_key(key: bytes, parts=3):
     part_len = len(key) // parts
-    fragments = [key[i*part_len:(i+1)*part_len] for i in range(parts)]
+    fragments = [key[i*part_len:(i+1)*part_len] for i in range(parts-1)]
+    fragments.append(key[(parts-1)*part_len:])  # le dernier fragment prend le reste
     return fragments
 
 def encrypt_file(file_path):
