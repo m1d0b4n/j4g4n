@@ -25,7 +25,7 @@
 ### collect.ps1
 
 | Fichier | Lien raw |
-|---------|------|-------------|
+|---------|------|
 | [collect.m1d0b4n](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/55b009af/collect.m1d0b4n) | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/55b009af/collect.m1d0b4n) |
 | [config_1.txt](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/55b009af/config_1.txt)       | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/55b009af/config_1.txt)    |
 | [config_2.txt](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/55b009af/config_2.txt)       | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/55b009af/config_2.txt)    |
@@ -34,8 +34,8 @@
 
 ### injector.ps1
 
-| Fichier | Lien raw | Lien shorté |
-|---------|------|-------------|
+| Fichier | Lien raw |
+|---------|------|
 | [injector.m1d0b4n](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/35e9c79b/injector.m1d0b4n) | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/35e9c79b/injector.m1d0b4n) |
 | [config_1.txt](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/35e9c79b/config_1.txt)         | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/35e9c79b/config_1.txt)     |
 | [config_2.txt](https://github.com/m1d0b4n/j4g4n/blob/main/utils/enc_s/35e9c79b/config_2.txt)         | [lien](https://raw.githubusercontent.com/m1d0b4n/j4g4n/refs/heads/main/utils/enc_s/35e9c79b/config_2.txt)     |
